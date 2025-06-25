@@ -1,6 +1,6 @@
 # Data_Analysis_Project1
 
-# Zepto_SalesAnalysis_Project
+# Zepto_Project
 <h1 align="center">Key Metrics</h1>
 <h3 align="center">Essential Data Points Driving Zepto's Success</h3>
 
